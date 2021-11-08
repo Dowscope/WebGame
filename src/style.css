@@ -1,3 +1,11 @@
 body {
     background-color: black;
 }
+
+#game_board {
+    width: 98vw;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -webkit-crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+}
